@@ -16,8 +16,9 @@
     bio.txt  links  badges.txt  tools
 
     ~> <strong>cat bio.txt</strong>
-    Hey, My name is Supratim Haldar. I am a CS Engineering student. Currently pursuing my Btech degree from RKMGEC, Purulia, WB. I have a keen interest in cybersecurity.
-    I'm passionate about tackling the challenges of the digital world, from ethical hacking to secure coding, and aiming to contribute to a safer cyber landscape.
+    Hey, My name is Supratim Haldar. I am a CS Engineering student. Currently pursuing my Btech degree from RKMGEC, Purulia, WB.
+         I have a keen interest in cybersecurity. I'm passionate about tackling the challenges of the digital world, 
+         from ethical hacking to secure coding, and aiming to contribute to a safer cyber landscape.
 
     ~> <strong>ls links</strong>
     Linkedin:      <a rel=me href="https://www.linkedin.com/in/supratim-haldar/">Supratim Haldar</a>
