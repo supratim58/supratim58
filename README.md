@@ -11,7 +11,7 @@
        \::/  /       \::/  /                     |:|  |         /:/  /                    \/__/         /:/  /   
         \/__/         \/__/                       \|__|         \/__/                                   \/__/    
     </pre>
-    <pre>
+<pre>
     ~> <strong>ls</strong>
     bio.txt  links  badges.txt  tools
 
@@ -34,4 +34,4 @@
     | Phishing Email Analysis:                           | <a href="https://app.letsdefend.io/my-rewards/detail/326e9945-c1eb-4aa2-8d21-14f6f5311e4f">Phishing Expert</a>
     | Malware Analysis:                                  | <a href="https://app.letsdefend.io/my-rewards/detail/8582bbd4-962a-4543-9f0e-89987917b636">Malware Analyzer</a>
     | Scripting and Automation for Threat Mitigation:    | SOC Automation Lab 
-    </pre>
+</pre>
