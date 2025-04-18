@@ -29,10 +29,10 @@
 
     | Skill                                              | Associated Badge         
     |----------------------------------------------------|----------------------------
-    | Networking Fundamentals:                           | <a href="https://app.letsdefend.io/my-rewards/detail/04d9628f-fc3a-4098-9420-6bdfa49c94c8">Network Cable</a>
-    | Network Traffic Monitoring and Attack Detection:   | <a href="https://app.letsdefend.io/my-rewards/detail/6c4fb8fb-2c4a-4f83-9fca-d679c205b26e">Wireshark Expert</a>
+    | Networking Fundamentals:                           | <a href="https://app.letsdefend.io/my-rewards/detail/d041e28a-895a-4f92-92db-7f05ea160f67">Network Cable</a>
+    | Network Traffic Monitoring and Attack Detection:   | <a href="https://app.letsdefend.io/my-rewards/detail/8ca1f612-daf0-491e-be86-4b9c90d64a4e">Wireshark Expert</a>
     | Malware Traffic Analysis with Wireshark:           | <a href="https://app.letsdefend.io/my-rewards/detail/6c4fb8fb-2c4a-4f83-9fca-d679c205b26e">Wireshark Expert</a>
-    | Phishing Email Analysis:                           | <a href="https://app.letsdefend.io/my-rewards/detail/326e9945-c1eb-4aa2-8d21-14f6f5311e4f">Phishing Expert</a>
-    | Malware Analysis:                                  | <a href="https://app.letsdefend.io/my-rewards/detail/8582bbd4-962a-4543-9f0e-89987917b636">Malware Analyzer</a>
+    | Phishing Email Analysis:                           | <a href="https://app.letsdefend.io/my-rewards/detail/4282a25b-5f1a-4ecf-87d5-f881ccda0eea">Phishing Expert</a>
+    | Malware Analysis:                                  | <a href="https://app.letsdefend.io/my-rewards/detail/bed90042-b4e1-407c-9bc3-cba3876f45d4">Malware Analyzer</a>
     | Scripting and Automation for Threat Mitigation:    | SOC Automation Lab 
 </pre>
